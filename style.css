@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/310328306_835431641106445_5544853150506933410_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHjcGNfh6CdketPpI88daAupGlwJ45ypSekaXAnjnKlJ5JjaiRKPnULMT77LoLcCErxkujBiL7_G_hwHAIFbmSA&_nc_ohc=V5iiolj8CIwAX_EsDOQ&_nc_ht=scontent.fmnl30-3.fna&oh=03_AdQFih4ed6sJFPcv7EijM741HqiyZTdXkr8Xpv_Nu2TD8w&oe=63AA58E6) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-size: 100;
+}
+.box p{
+    text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+    color: #e5e5e5;
+}
